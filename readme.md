@@ -1,6 +1,6 @@
-# nexons
+# Nexons
 <div style='font-size:1.2em'>
-	<b>ur skidding from me <3</b>	
+	<b>You're skidding from me <3</b>
 	<br>
 </div>
 <br>
